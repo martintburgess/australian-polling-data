@@ -16,3 +16,7 @@ source("setup.R")
 read_csv("raw-data/polls/initial_national_polls.csv") |> 
   arrange(start_date) |> 
   write_csv("output/polls/national_polls.csv")
+
+read_csv("raw-data/election_results/initial_national_election_results.csv") |> 
+  arrange(election_date) |> 
+  write_csv("output/election_results/national_election_results.csv")

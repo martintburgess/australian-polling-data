@@ -903,4 +903,5 @@ start_date,end_date,firm_title,mode,sample_size,primary_lnc,primary_alp,primary_
 2022-05-02,2022-05-08,Roy Morgan,Telephone/online,1401,0.34,0.355,0.13,0.04,0.01,0.125,NA,0.455,0.545,NA
 2022-05-10,2022-05-13,Newspoll-YouGov,Online,1532,0.35,0.38,0.11,0.06,0.03,0.07,NA,0.46,0.54,NA
 2022-05-12,2022-05-17,Resolve Strategic,Telephone/online,2049,0.34,0.31,0.14,0.05,0.04,0.1,NA,NA,NA,NA
-2022-05-09,2022-05-15,Roy Morgan,Telephone/online,1366,0.34,0.34,0.13,0.04,0.01,0.14,NA,0.47,0.53,
+2022-05-09,2022-05-15,Roy Morgan,Telephone/online,1366,0.34,0.34,0.13,0.04,0.01,0.14,NA,0.47,0.53,NA
+2022-05-14,2022-05-16,Essential,Online,1600,0.36,0.35,0.09,0.05,0.03,0.06,0.07,0.46,0.48,NA
